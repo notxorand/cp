@@ -1,0 +1,12 @@
+[package]
+name = "cp"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "4-a"
+path = "./src/4-a.rs"
+
+[[bin]]
+name = "71-a"
+path = "./src/71-a.rs"
